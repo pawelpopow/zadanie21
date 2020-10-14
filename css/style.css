@@ -1,0 +1,14 @@
+/*Selektor klasy*/
+.first-paragraph{
+    background-color: blue;
+}
+.second-paragraph{
+    background-color: turquoise;
+}
+p{
+    margin-bottom: 100px;
+}
+
+p{
+    font-size: 2.3em;
+}
